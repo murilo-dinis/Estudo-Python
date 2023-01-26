@@ -1,0 +1,18 @@
+Operadores Lógicos
+
+and, or, not
+in e not in
+
+para comparações
+
+
+verdadeira   e   verdadeiro  = verdadeiro
+verdadeira   e   falsa       = falsa
+comparacao1 and comparacao2
+
+
+falso     ou   verdadeiro  = verdadeiro
+verdadeiro ou verdadeiro   = verdadeiro
+comparacao1 or comparacao2
+
+expressao not inverte o resultado

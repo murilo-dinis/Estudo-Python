@@ -1,0 +1,5 @@
+iterar sobre str com o laço while
+
+para cada índice de um elemento é possivel iterar sobre ele.
+
+.upper converte a letra para maiúscula.

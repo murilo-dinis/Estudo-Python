@@ -1,0 +1,23 @@
+funções split, join, enumerate
+
+split - divide strings
+ex:
+string = '...'
+lista = string.split(' ')  # será dividia por espaço
+
+.strip()
+remove espaços no começo e no fim da frase
+
+.capitalize()
+deixa a primeira letra maíuscula
+
+
+join - transforma uma lista em uma string
+ex:
+string = '...'
+lista = string.split(' ')
+string2 = ','.join(lista) # os elementos da string serão separados por virgula
+
+
+enumerate - enumera elementos da lista
+mostra a numeração do valor na tela

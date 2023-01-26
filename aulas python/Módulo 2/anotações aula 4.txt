@@ -1,0 +1,7 @@
+*args **kwargs
+
+assim que eu crio um valor padrão para um argumento os próximos também devem ter um valor para eles.
+
+Se não sabe os argumentos que tem na função utiliza o *args
+
+**kwargs são argumentos com palavras chaves

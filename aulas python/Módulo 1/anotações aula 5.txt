@@ -1,0 +1,11 @@
+operadores arítmeticos: 
++, -, *, /, //, **, %, ()
+
++ adição e concatena
+- subtração
+* multiplicação
+/ divisão
+// divisão inteira, arredondado
+** potência
+% módulo resto da divisão
+() altera as precedências nas contas

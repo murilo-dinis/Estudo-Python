@@ -1,0 +1,13 @@
+operadores relacionais 
+
+== > >= < <= !=
+
+== pergunta se é igual ao outro  True or False
+
+> pergunta se é maior que outro
+
+>= pergunta se é maior ou igual ao outro
+
+<= pergunta se é menor ou igual ao outro
+
+!= pergunta se é diferente

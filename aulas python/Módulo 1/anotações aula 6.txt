@@ -1,0 +1,8 @@
+variáveis
+
+é o nome que se dá para algo que é salvo na memória do computador
+
+exemplo: 
+nome = 'Murilo'
+
+não pode iniciar uma variável com números

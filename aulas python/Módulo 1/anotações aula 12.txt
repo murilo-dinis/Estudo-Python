@@ -1,0 +1,3 @@
+quantidade caracteres
+
+função len

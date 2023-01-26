@@ -1,0 +1,29 @@
+formatar valores com modificadores
+
+:s = Strings
+:d - inteiros
+:f - float
+:.(numero)f - quantidade de casas decimais
+:(caracetere) (> oou < ou ^) (quantidade) (tipo - s, d ou f)
+
+
+exemplo:
+{:.2f}
+: que vai ter formatação
+.2 vai ter duas casas decimais
+f é o float
+
+
+print(f'{num_1:0>10}')
+: vai ter formatação
+0 é o número que vai ser usado
+> será adicionado à esquerda do número
+10 é a quantidade de algarismos que terá
+
+
+com str:
+print(f'{variavel:#50}')
+
+: terá formaatação
+# será preenchido com esse cartactere
+50 terá 50 caracteres

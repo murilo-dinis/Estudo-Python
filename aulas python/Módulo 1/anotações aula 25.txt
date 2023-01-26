@@ -1,0 +1,3 @@
+operador ternário em Python
+
+usando if e else na mesma frase

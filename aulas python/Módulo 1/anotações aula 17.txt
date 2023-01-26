@@ -1,0 +1,7 @@
+Lações de repetições
+
+while e for
+
+laço while é um loop, vai fazendo enquanto a condição for verdadeira.
+expressão 'continue' será usada para pular para o próximo laço.
+deve ter uma variavel de controle

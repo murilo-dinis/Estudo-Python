@@ -1,0 +1,42 @@
+Listas em Python
+fatiamento
+append, insert, pop, del, clear, extend, +
+min, max
+range
+
+a variavel tem apenas um valor, lista pode ter vários dentro do colchete []
+
+lista = []
+
+função extend, extende uma lista em outra.
+ex:
+l1.extend(l2)
+ou
+l1.extend('a')
+
+função append, adiciona um valor no final.
+ex:
+l2.append('b')
+
+função insert, insere um valor na lista onde eu quiser.
+ex:
+l2.insert(0, 'b')
+
+funçao pop, deleta um valor da lista.
+ex:
+*8
+l2.pop( )
+
+função del, exclui valores selecionados.
+ex:
+del(lista[:])
+
+função max e min, max para saber qual é o maior valor da lista e min para saber qual é o menor.
+ex:
+print(max(lista))
+print(min(lista))
+
+função list, transforma o que estiver em lista.
+ex:
+l2 = list(range(0, 10))
+

@@ -1,0 +1,10 @@
+estrutura de repetição for in
+
+iterando str com for
+
+função range(start=0, stop, step=1)
+
+função enumerate enumera cada volta do laço
+
+continue - pula para o próximo laço
+break - termina o laço

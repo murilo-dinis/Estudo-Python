@@ -1,0 +1,5 @@
+para exibir algo na tela utiliza a função print
+
+argumento "sep" serve para dizer qual elemento irá ser usado como separador 
+
+argumento "end" serve para mandar qualquer coisa que quiser esteja no final do print

@@ -1,0 +1,9 @@
+Função def
+
+usamos a função def pra definir uma função
+
+é útil pois da para usar várias vezes e se quiser mudar a função, só alterar na def
+
+se utilizar um parâmetro dentro da função, deve-se chamar sempre o parâmetro quando utilizar a def
+
+função .replace troca algo por outra coisa

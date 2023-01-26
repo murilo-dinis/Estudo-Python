@@ -1,0 +1,10 @@
+f strings
+
+print(f'')
+
+melhor para escrever no print
+
+{imc:.2f}  - para exibir quantas casas decimais quer
+.2 significa que vai ser 2 casas decimais 
+f é o float
+

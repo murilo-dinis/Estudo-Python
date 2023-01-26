@@ -1,0 +1,3 @@
+comentários em python, utiliza a #
+
+docstrings utiliza 3 aspas, '''

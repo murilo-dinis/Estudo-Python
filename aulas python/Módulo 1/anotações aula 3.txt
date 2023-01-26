@@ -1,0 +1,10 @@
+str - string
+
+strings estão sempre entre aspas
+
+barra invertida \ ignora o caracter que está à sua frente.
+
+\n é uma quebra de linha
+
+r atrás das aspas serve para indicar que nada que está dentro não será executado.
+

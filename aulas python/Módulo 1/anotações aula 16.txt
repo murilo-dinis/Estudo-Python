@@ -1,0 +1,4 @@
+manipulando Strings
+índices str
+fatiamento str
+funções built-in len, abs, type, print

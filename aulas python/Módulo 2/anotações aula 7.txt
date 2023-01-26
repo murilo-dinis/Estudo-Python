@@ -1,0 +1,3 @@
+expressões lambda
+
+expressao .sort altera o valor da lista.

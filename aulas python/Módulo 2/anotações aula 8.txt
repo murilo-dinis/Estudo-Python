@@ -1,0 +1,2 @@
+tuplas
+são listas imutáveis.

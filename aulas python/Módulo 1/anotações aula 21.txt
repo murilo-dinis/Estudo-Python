@@ -1,0 +1,7 @@
+for e else
+
+.startswith()
+serve para saber se o valor começa com a letra ''
+
+.lower()
+para letras minúsculas e maiúsculas

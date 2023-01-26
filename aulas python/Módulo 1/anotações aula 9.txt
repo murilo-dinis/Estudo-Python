@@ -1,0 +1,21 @@
+condições IF, ELIF, ELSE
+
+if True:
+    print('Verdadeiro')
+
+se ... executar:
+    ...
+
+se não for verdadeira, pulará o bloco.
+
+
+else:
+    ...
+
+se for False ele pulará para o bloco else executando o que está nele.
+
+
+elif abr de else + if
+
+
+assim que acha uma expressão verdadeira ele encerra o processo elif

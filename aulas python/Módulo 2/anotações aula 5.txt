@@ -1,0 +1,7 @@
+escopo de variáveis
+
+quando definimos uma variável ela está no escopo global
+
+quando editamos a variavel dentro de uma função ela só vai ser mudada dentro do escopo local.
+
+para mudar a variável global dentro da função utiliza a função global, mas não é recomendado utilizar isso.

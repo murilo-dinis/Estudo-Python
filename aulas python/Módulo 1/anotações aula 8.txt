@@ -1,0 +1,5 @@
+input
+
+entrada de dados, o usuário escreve o dado que quer
+
+semppre retornará uma str

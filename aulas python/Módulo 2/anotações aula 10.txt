@@ -1,0 +1,3 @@
+imprecisão de ponto flutuante
+
+função round seleciona casas decimais em floats

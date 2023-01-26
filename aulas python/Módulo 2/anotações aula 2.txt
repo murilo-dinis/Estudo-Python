@@ -1,0 +1,3 @@
+None representa um não valor, um valor sem valor.
+
+Se a função encontrar a palavra 'return' não executará nada abaixo do return.
